@@ -1,0 +1,4 @@
+[30-Jan-2023 15:16:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/quivorng/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[04-Feb-2023 00:55:08 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home/quivorng/public_html/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 08:53:01 UTC] PHP Warning:  require(/home/quivorng/public_html/../quivor/vendor/autoload.php): failed to open stream: No such file or directory in /home/quivorng/public_html/index.php on line 26
+[08-Aug-2023 08:53:01 UTC] PHP Fatal error:  require(): Failed opening required '/home/quivorng/public_html/../quivor/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/quivorng/public_html/index.php on line 26
